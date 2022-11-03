@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+.carousel-indicators li {
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  filter: drop-shadow(1px 3px 6px rgb(0 0 0 / 0.65));
+}
